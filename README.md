@@ -118,4 +118,6 @@ Darknet markets offer a space for anonymous transactions. By following these sec
 
 Please contribute and add stars to this repo.
 
-Update: Fixed broken links in settings reference
+
+
+Update: Module links
