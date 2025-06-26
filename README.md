@@ -130,4 +130,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update: Gallery links
+
+
+Update: Redirect loops
