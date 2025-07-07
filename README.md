@@ -134,4 +134,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update:  07/04/2025
+
+
+Update: The link is now reachable, thanks for the fix!
