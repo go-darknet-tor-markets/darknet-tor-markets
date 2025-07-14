@@ -136,4 +136,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update: The link is now reachable, thanks for the fix!
+
+
+Update: URL corrections
